@@ -1,0 +1,31 @@
+title: Reparación Aire Acondicionado Sax
+email: your-email@domain.com
+description: Fundados en Valencia somos una empresa encargada de solventar cualquier reparación o instalación de aire acondicionado y calefacción https://reparacionaireacondicionadovalencia.info/sax/
+
+baseurl: "/"
+url: http://keralahost.in/lalososa
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Reparación Aire Acondicionado Sax
+
+date: 2019-04-22 04:20:17 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/lalososa/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+
+author: lalososa
